@@ -1,38 +1,226 @@
-# 💫 Hi 👋, I'm Muhammad Shoaib
-**AI Engineer | Machine Learning Engineer | LLM & AI Agent Developer**
+<h1 align="center">Hi 👋, I'm Muhammad Shoaib</h1>
 
-I build production-ready AI applications using LLMs, RAG, LangGraph, FastAPI, Django, Docker, and AWS.
+<h3 align="center">
+AI Engineer • Machine Learning Engineer • LLM Engineer • AI Agent Developer
+</h3>
 
-Email Me 👉 ✉️ **work.ishoaib@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+Building production-ready AI applications powered by Large Language Models, AI Agents, Voice AI, RAG, and Cloud Infrastructure.
+</p>
 
-- 🔭 **I’m currently working on:** AI Agents, LLMs, RAG, Voice AI, Cloud Deployments.
-- 🌱 **I’m currently learning:** Agentic AI framworks
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 😄 **Pronouns:** Muhammad Shoaib
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shoaib-gill) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@work.ishoaib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.ishoaib@gmail.com)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MuhammadShoaib531&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MuhammadShoaib531&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadShoaib531&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadShoaib531&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:work.ishoaib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-work.ishoaib@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/muhammad-shoaib-gill">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Shoaib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@work.ishoaib">
+    <img src="https://img.shields.io/badge/Medium-Blogs-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MuhammadShoaib531&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I'm an **AI Engineer** passionate about building intelligent, production-ready applications using **Large Language Models (LLMs), AI Agents, Voice AI, Retrieval-Augmented Generation (RAG), and Machine Learning**.
+
+I enjoy transforming complex business problems into scalable AI solutions by combining modern AI frameworks, backend development, cloud infrastructure, and automation.
+
+My expertise includes designing end-to-end AI systems—from data pipelines and model integration to deployment and monitoring—with a strong focus on performance, reliability, and user experience.
+
+---
+
+## 🎯 What I'm Currently Working On
+
+- 🤖 AI Agents
+- 🧠 Agentic AI Applications
+- 🎙️ Voice AI & Conversational AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔗 Multi-Agent Systems
+- ⚡ Workflow Automation
+- ☁️ Cloud Deployment & MLOps
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Agentic AI Frameworks
+- Multi-Agent Collaboration
+- AI Infrastructure & Observability
+- Advanced Fine-Tuning Techniques
+
+---
+
+## 💬 Ask Me About
+
+- Large Language Models (LLMs)
+- AI Agents
+- LangChain & LangGraph
+- Voice AI
+- FastAPI & Django
+- RAG Architecture
+- Vector Databases
+- Backend Development
+- Cloud Deployment
+- Machine Learning
+- AI Automation
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:work.ishoaib@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/muhammad-shoaib-gill">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@work.ishoaib">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+## 🤖 AI & LLM Frameworks
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4B32C3?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+## 🎙️ Voice AI
+
+![LiveKit](https://img.shields.io/badge/LiveKit-111827?style=for-the-badge)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
+![Vapi](https://img.shields.io/badge/Vapi-6366F1?style=for-the-badge)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+---
+
+## 🧠 AI Expertise
+
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- 🎙️ Voice AI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔗 Multi-Agent Systems
+- 🧩 Function Calling
+- 📝 Prompt Engineering
+- 🎯 Fine-Tuning LLMs
+- 🔍 Semantic Search
+- 🗂️ Vector Search
+- ⚡ AI Workflow Automation
+- 🤝 MCP (Model Context Protocol)
+
+---
+
+## 🚀 Backend Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 🗄️ Databases & Vector Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=for-the-badge)
+
+---
+
+## 🔄 Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+---
+
+## ☁️ Cloud & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+
+---
+
+## 🛠️ Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Voice Agent | Production Voice AI platform using LiveKit, ElevenLabs, Twilio & FastAPI |
+| 🧠 AI Agents | Multi-agent systems built with LangGraph & LangChain |
+| 📚 RAG Chatbot | Enterprise-grade Retrieval-Augmented Generation chatbot |
+| ⚡ AI Automation | Intelligent workflows using n8n & Zapier |
+| 🚀 Backend APIs | Scalable FastAPI, Django & Flask applications |
+| ☁️ Cloud Deployment | Dockerized applications deployed on AWS & Vercel |
+
+---
+
+# 📈 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=MuhammadShoaib531&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadShoaib531&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShoaib531&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadShoaib531&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MuhammadShoaib531&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</h3>
