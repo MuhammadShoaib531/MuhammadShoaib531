@@ -9,15 +9,9 @@ Building production-ready AI applications powered by Large Language Models, AI A
 </p>
 
 <p align="center">
-  <a href="mailto:work.ishoaib@gmail.com">
-    <img src="https://img.shields.io/badge/Email-work.ishoaib@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/muhammad-shoaib-gill">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Shoaib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@work.ishoaib">
-    <img src="https://img.shields.io/badge/Medium-Blogs-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+  <a href="mailto:work.ishoaib@gmail.com"><img src="https://img.shields.io/badge/Email-work.ishoaib@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammad-shoaib-gill"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Shoaib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@work.ishoaib"><img src="https://img.shields.io/badge/Medium-Blogs-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
