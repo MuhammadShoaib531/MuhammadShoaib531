@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shoaib</h1>
 
 <h3 align="center">
-AI Engineer • Machine Learning Engineer • LLM Engineer • AI Agent Developer
+AI Engineer • Backend Developer • LLM Engineer • AI Agent Developer
 </h3>
 
 <p align="center">
