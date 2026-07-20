@@ -8,11 +8,10 @@ Email Me 👉 ✉️ **work.ishoaib@gmail.com** For Collaboration/Project or Any
 - 🔭 **I’m currently working on:** AI Agents, LLMs, RAG, Voice AI, Cloud Deployments.
 - 🌱 **I’m currently learning:** Agentic AI framworks
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Muhammad Shoaib
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shoaib-gill) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@work.ishoaib) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-shoaib-gill) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@work.ishoaib) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.ishoaib@gmail.com)
 
 <!-- Snake Game Repo View -->
 
